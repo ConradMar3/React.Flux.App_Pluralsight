@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": false,
+    "editor.formatOnSaveMode": "modifications",
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "prestart",
+        "toastify"
+    ]
+}
